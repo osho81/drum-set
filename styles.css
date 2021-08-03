@@ -1,0 +1,115 @@
+body {
+  text-align: center;
+  background-color: #fa937c;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #fa937c;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+  padding: 10% auto;
+}
+
+.title-div {
+  background-image: url("images/main-pic.png");
+  height: 200px;
+  width: 600px;
+  margin: -20px auto 0;
+  border-radius: 10px;
+}
+
+.set {
+  margin: 3% auto;
+  width: 70%;
+}
+
+.instructions {
+  font-size: 1.5rem;
+  opacity: 0.1;
+}
+
+.instructions:hover {
+  opacity: 0.8;
+}
+
+footer p {
+  font-size: 0.7rem;
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+  margin: 25px auto 10px;
+}
+
+.w {
+  background-image: url("images/tom1.png");
+}
+
+.e {
+  background-image: url("images/trance.png");
+}
+
+.r {
+  background-image: url("images/shortBase.png");
+}
+
+.a {
+  background-image: url("images/tom2.png");
+}
+
+.s {
+  background-image: url("images/tom3.png");
+}
+
+.d {
+  background-image: url("images/tom4.png");
+}
+
+.f {
+  background-image: url("images/laser.png");
+}
+
+.i {
+  background-image: url("images/sticks.png");
+}
+
+.o {
+  background-image: url("images/techno.png");
+}
+
+.j {
+  background-image: url("images/snare.png");
+}
+
+.k {
+  background-image: url("images/kick.png");
+}
+
+.l {
+  background-image: url("images/crash.png");
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.drum {
+  outline: none;
+  border: 5px solid #404B69;
+  font-size: 3rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #fd5ea5;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 50px;
+  display: inline-block;
+  width: 120px;
+  height: 120px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
