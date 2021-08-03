@@ -1,4 +1,6 @@
-Drum-kit webpage. 
+Drum set (updated version of drum kit). 
 
-This is from an assignment in the programme (that I participated in): 
-"The Complete 2021 Web Development Bootcamp", given by App Brewery, Angela Yu (via Udemy.com).
+Press key w, e, r, as,, f, i, o, j, k, l or click on corresponding drum set buttons for drum sounds. 
+Or press on b for random sound. 
+
+Used technologiees: HTML/CSS and JavaScript. 
