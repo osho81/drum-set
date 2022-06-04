@@ -10,5 +10,5 @@ Or press on b for random sound.
 Practise on HTML/CSS & Javascript
 
 ### Tech used 
-* HTML/CSS
 * JavaScript 
+* HTML/CSS
