@@ -1,4 +1,4 @@
-# Drum set 
+## Drum set 
 
 ### Descritpion 
 Updated version of drum-kit project. 
